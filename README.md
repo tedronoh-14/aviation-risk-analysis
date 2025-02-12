@@ -67,7 +67,7 @@ This project follows a systematic, multi-step approach to transform raw aviation
     - **Aircraft Make & Model Analysis:** Identification of high-risk models & detailed breakdowns by aircraft make and model.
     - **Weather Conditions Analysis:** Impact of different weather conditions on accident rates.
 
-**Dashboard Name:** *Aviation Risk Insights*
+**Dashboard Name:** *Aviation Risk Analysis*
 
 
 4. **Final Deliverables**
